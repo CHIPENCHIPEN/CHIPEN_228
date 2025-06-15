@@ -28,4 +28,15 @@ a {
     justify-content: center;
     margin: 20px 0;
 }
+.game1{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+.game2{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
 
