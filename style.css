@@ -26,9 +26,6 @@ a {
 main iframe {
     margin-right: 200px;
 }
-.game{
-    display: flex;
-    justify-content: center;
-    margin: 20px 0;
+iframe {
+    margin-right: 200px;
 }
-
